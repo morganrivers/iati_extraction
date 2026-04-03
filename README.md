@@ -7,8 +7,6 @@ All data extracted from the International Aid Transparency Initiative (IATI) dat
 ### `ratings/`
 Overall activity success ratings on a ~1–6 scale (IEG/DSGF ratings).
 - `merged_overall_ratings.jsonl` — primary ratings file used throughout the pipeline
-- `merged_overall_ratings_BACKUP.jsonl` — backup copy
-- `merged_overall_ratings_WITH_THE_NO_RATINGS_THERE.jsonl` — includes activities without ratings
 
 ### `outcome_tags/`
 Binary outcome tags extracted by LLM from evaluation reports.
